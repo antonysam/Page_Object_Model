@@ -12,6 +12,8 @@ _Advantages_
   b)Readable
   c)Reusable
  ```
+ ![](https://github.com/antonysam/Page_Object_Model/blob/master/POM.PNG)
+ 
 _Implementation_
 ```
 1)Normal approach using By.
